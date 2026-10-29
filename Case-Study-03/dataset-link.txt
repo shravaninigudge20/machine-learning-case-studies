@@ -1,7 +1,4 @@
 
-
-
-Dataset Link: https://colab.research.google.com/drive/1OfnqXeg58YhrE--N_8o3MsMpg2v__dKG?usp=sharing
-
+Dataset Link: https://raw.githubusercontent.com/justmarkham/pycon-2016-tutorial/master/data/sms.tsv
 
 
