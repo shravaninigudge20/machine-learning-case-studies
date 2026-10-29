@@ -64,13 +64,16 @@ Through these case studies, we aim to:
 - Develop practical problem-solving and analytical skills.
 - Improve teamwork and collaboration using GitHub.
 
-## 👥 Team Members
+## 👥 Team Members & Contributors
 
-This project is developed collaboratively as part of our Machine Learning practical coursework.
+This project is collaboratively developed and maintained by the following team members:
 
-**Repository Maintainer:** [@shravaninigudge20](https://github.com/shravaninigudge20)
-
-**Contributors:** Team member names and GitHub profiles will be added here.
+1. **Shravani Nigudge**
+2. **Zoya Shahapure**
+3. **Vaishnavi Raut**
+4. **Pratiksha Lavte**
+5. **Amruta Aagarker**
+6. **Shweta Arsul**
 
 ## 📝 Note
 
